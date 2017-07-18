@@ -6,12 +6,12 @@ Nomes: Lizandro Oliveira, Lisandro Silva
 Estrutura inicial do paper:
 
 1. Introduction
-- Introduço e uma tabela sucinta
+- Introduçao e uma tabela sucinta
 2. Overview - NVM's
 - Grande tabela com classificação/taxonomia proposta
 - Categorias dos trabalhos a serem apresentados na tabela: memory technology, hybrid (caches, SPM e MP), energy saving e performance improvment
 3. Related works
-- Abrir o tabelo apresentado na seço anterior
+- Abrir o tabelo apresentado na seçao anterior
 4. Conclusion and future trends
 References
 
